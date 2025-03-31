@@ -1,5 +1,5 @@
- # User Authentication API
-This is a Node.js-based authentication API with features such as user registration, login, logout, profile updates, and password reset. It uses Express, MongoDB, JWT, Multer, and Nodemailer.
+ # User Management API
+This is a Node.js-based user management API with features such as user registration, login, logout, profile updates, and password reset. It uses Express, MongoDB, JWT, Multer, and Nodemailer.
 
 ## Features
 - User registration and login with JWT authentication
